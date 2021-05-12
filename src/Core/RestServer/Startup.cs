@@ -26,6 +26,15 @@ namespace protoArquitectura
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+			//Se debe modificar el acceso desde cualquier cliente
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAllOrigins",
+                    builder => builder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod());
+            });
+
+			// Se debe especificar la inyeccion de dependecia por cada interfaz y repo
+            // services.AddTransient<IPublicacionRepository, PublicacionRepository>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
@@ -44,12 +53,12 @@ namespace protoArquitectura
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "protoArquitectura v1"));
             }
 
+			//Se aplica la modificacion de acceso
+            app.UseCors("AllowAllOrigins");
+			
             app.UseHttpsRedirection();
-
             app.UseRouting();
-
             app.UseAuthorization();
-
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();
