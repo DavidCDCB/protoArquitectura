@@ -92,7 +92,6 @@ C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\RestServer\bin\
 C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\RestServer\bin\Debug\net5.0\Aplicacion.pdb
 C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\RestServer\bin\Debug\net5.0\Interfaces.pdb
 C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\RestServer\bin\Debug\net5.0\Persistencia.pdb
-C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\RestServer\obj\Debug\net5.0\protoArquitectura.csprojAssemblyReference.cache
 C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\RestServer\obj\Debug\net5.0\protoArquitectura.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\RestServer\obj\Debug\net5.0\protoArquitectura.AssemblyInfoInputs.cache
 C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\RestServer\obj\Debug\net5.0\protoArquitectura.AssemblyInfo.cs
