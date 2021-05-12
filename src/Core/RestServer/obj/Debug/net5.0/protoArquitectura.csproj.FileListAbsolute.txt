@@ -66,3 +66,4 @@
 /media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Persistencia.dll
 /media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Interfaces.pdb
 /media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Persistencia.pdb
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/jsonDB.json
