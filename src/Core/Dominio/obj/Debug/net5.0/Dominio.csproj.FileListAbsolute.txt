@@ -1,0 +1,12 @@
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/bin/Debug/net5.0/Dominio.deps.json
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/bin/Debug/net5.0/Dominio.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/bin/Debug/net5.0/ref/Dominio.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/bin/Debug/net5.0/Dominio.pdb
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/obj/Debug/net5.0/Dominio.csprojAssemblyReference.cache
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/obj/Debug/net5.0/Dominio.GeneratedMSBuildEditorConfig.editorconfig
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/obj/Debug/net5.0/Dominio.AssemblyInfoInputs.cache
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/obj/Debug/net5.0/Dominio.AssemblyInfo.cs
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/obj/Debug/net5.0/Dominio.csproj.CoreCompileInputs.cache
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/obj/Debug/net5.0/Dominio.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/obj/Debug/net5.0/ref/Dominio.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/obj/Debug/net5.0/Dominio.pdb

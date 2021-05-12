@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8MJEOTOZ12dOWtJHdnQI6AWZqjr/vCWI+QeSOC0FxEo+3/q3pV+3h1FvvkunxUXa1PWuFFuzqZr6SK/HFFX7Lg==",
+  "success": true,
+  "projectFilePath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/protoArquitectura.csproj",
+  "expectedPackageFiles": [
+    "/home/david-pc/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/david-pc/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/david-pc/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/david-pc/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/david-pc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/david-pc/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
