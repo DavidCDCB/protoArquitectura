@@ -13,7 +13,7 @@ namespace Persistencia
 	public class PublicacionRepository : IPublicacionRepository
 	{
 		// Todas las tablas van a estar almacenadas de manera ordenada en un JSON
-		public const string PATCH = "./Data/jsonDB.json";
+		public const string PATCH = "../../Persistencia/jsonDB.json";
 		public DataStore store = new DataStore(PATCH);
 
 		/*

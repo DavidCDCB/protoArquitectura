@@ -188,19 +188,19 @@
     ]
   },
   "packageFolders": {
-    "/home/david-pc/.nuget/packages/": {}
+    "C:\\Users\\Simón\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Persistencia/Persistencia.csproj",
+      "projectUniqueName": "C:\\Users\\Simón\\Documents\\Programming\\protoArquitectura\\src\\Persistencia\\Persistencia.csproj",
       "projectName": "Persistencia",
-      "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Persistencia/Persistencia.csproj",
-      "packagesPath": "/home/david-pc/.nuget/packages/",
-      "outputPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Persistencia/obj/",
+      "projectPath": "C:\\Users\\Simón\\Documents\\Programming\\protoArquitectura\\src\\Persistencia\\Persistencia.csproj",
+      "packagesPath": "C:\\Users\\Simón\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Simón\\Documents\\Programming\\protoArquitectura\\src\\Persistencia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/david-pc/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Simón\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -212,11 +212,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/Dominio.csproj": {
-              "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/Dominio.csproj"
+            "C:\\Users\\Simón\\Documents\\Programming\\protoArquitectura\\src\\Core\\Dominio\\Dominio.csproj": {
+              "projectPath": "C:\\Users\\Simón\\Documents\\Programming\\protoArquitectura\\src\\Core\\Dominio\\Dominio.csproj"
             },
-            "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/Interfaces.csproj": {
-              "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/Interfaces.csproj"
+            "C:\\Users\\Simón\\Documents\\Programming\\protoArquitectura\\src\\Core\\Interfaces\\Interfaces.csproj": {
+              "projectPath": "C:\\Users\\Simón\\Documents\\Programming\\protoArquitectura\\src\\Core\\Interfaces\\Interfaces.csproj"
             }
           }
         }
@@ -255,7 +255,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }
