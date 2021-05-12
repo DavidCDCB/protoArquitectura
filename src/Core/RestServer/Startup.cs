@@ -11,6 +11,8 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Interfaces;
+using Persistencia;
 
 namespace protoArquitectura
 {
@@ -34,7 +36,7 @@ namespace protoArquitectura
             });
 
 			// Se debe especificar la inyeccion de dependecia por cada interfaz y repo
-            // services.AddTransient<IPublicacionRepository, PublicacionRepository>();
+            services.AddTransient<IPublicacionRepository, PublicacionRepository>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
@@ -55,7 +57,7 @@ namespace protoArquitectura
 
 			//Se aplica la modificacion de acceso
             app.UseCors("AllowAllOrigins");
-			
+
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthorization();

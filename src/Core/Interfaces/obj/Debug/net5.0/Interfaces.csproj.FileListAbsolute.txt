@@ -1,0 +1,15 @@
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/Debug/net5.0/Interfaces.csprojAssemblyReference.cache
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/Debug/net5.0/Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/Debug/net5.0/Interfaces.AssemblyInfoInputs.cache
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/Debug/net5.0/Interfaces.AssemblyInfo.cs
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/Debug/net5.0/Interfaces.csproj.CoreCompileInputs.cache
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/bin/Debug/net5.0/Interfaces.deps.json
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/bin/Debug/net5.0/Interfaces.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/bin/Debug/net5.0/ref/Interfaces.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/bin/Debug/net5.0/Interfaces.pdb
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/bin/Debug/net5.0/Dominio.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/bin/Debug/net5.0/Dominio.pdb
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/Debug/net5.0/Interfaces.csproj.CopyComplete
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/Debug/net5.0/Interfaces.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/Debug/net5.0/ref/Interfaces.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/Debug/net5.0/Interfaces.pdb

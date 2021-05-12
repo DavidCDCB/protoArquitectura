@@ -1,8 +1,8 @@
-using projectSoft.Entities;
+using Dominio;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
-namespace projectSoft.Interfaces
+namespace Interfaces
 {
     public interface IPublicacionRepository
     {

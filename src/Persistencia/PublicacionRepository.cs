@@ -2,13 +2,13 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using projectSoft.Entities;
-using projectSoft.Interfaces;
+using Dominio;
+using Interfaces;
 
 //https://github.com/ttu/json-flatfile-datastore
 using JsonFlatFileDataStore;
 
-namespace projectSoft.Repositories
+namespace Persistencia
 {
 	public class PublicacionRepository : IPublicacionRepository
 	{
