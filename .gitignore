@@ -1,4 +1,4 @@
-/bin
-/obj
-*/.chache
+**/bin
+**/obj
+**/*.chache
 .vscode/
