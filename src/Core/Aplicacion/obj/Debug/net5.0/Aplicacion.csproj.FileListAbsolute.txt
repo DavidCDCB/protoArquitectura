@@ -10,3 +10,11 @@
 /media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Aplicacion/obj/Debug/net5.0/Aplicacion.dll
 /media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Aplicacion/obj/Debug/net5.0/ref/Aplicacion.dll
 /media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Aplicacion/obj/Debug/net5.0/Aplicacion.pdb
+C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\Aplicacion\obj\Debug\net5.0\Aplicacion.csprojAssemblyReference.cache
+C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\Aplicacion\obj\Debug\net5.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\Aplicacion\obj\Debug\net5.0\Aplicacion.AssemblyInfo.cs
+C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\Aplicacion\obj\Debug\net5.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\Aplicacion\obj\Debug\net5.0\Aplicacion.dll
+C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\Aplicacion\obj\Debug\net5.0\ref\Aplicacion.dll
+C:\Users\Simón\Documents\Programming\protoArquitectura\src\Core\Aplicacion\obj\Debug\net5.0\Aplicacion.pdb
