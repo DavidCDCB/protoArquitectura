@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "8MJEOTOZ12dOWtJHdnQI6AWZqjr/vCWI+QeSOC0FxEo+3/q3pV+3h1FvvkunxUXa1PWuFFuzqZr6SK/HFFX7Lg==",
+  "dgSpecHash": "wrQQcQV5kZj7/3lUvkZeBGg3YQMpPgToSBKFa8UqB0S9Ck4oE0t5ykiZQn6QnUMJUkJRalMVudxxLklIxQeUuw==",
   "success": true,
   "projectFilePath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/protoArquitectura.csproj",
   "expectedPackageFiles": [
+    "/home/david-pc/.nuget/packages/jsonflatfiledatastore/2.2.2/jsonflatfiledatastore.2.2.2.nupkg.sha512",
+    "/home/david-pc/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
     "/home/david-pc/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/home/david-pc/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/david-pc/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
     "/home/david-pc/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "/home/david-pc/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "/home/david-pc/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",

@@ -108,6 +108,62 @@
         }
       }
     },
+    "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/Interfaces.csproj",
+        "projectName": "Interfaces",
+        "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/Interfaces.csproj",
+        "packagesPath": "/home/david-pc/.nuget/packages/",
+        "outputPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david-pc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/Dominio.csproj": {
+                "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/protoArquitectura.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -135,6 +191,12 @@
               },
               "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/Dominio.csproj": {
                 "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/Dominio.csproj"
+              },
+              "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/Interfaces.csproj": {
+                "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/Interfaces.csproj"
+              },
+              "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Persistencia/Persistencia.csproj": {
+                "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Persistencia/Persistencia.csproj"
               }
             }
           }
@@ -149,6 +211,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "JsonFlatFileDataStore": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -168,6 +238,75 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Persistencia/Persistencia.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Persistencia/Persistencia.csproj",
+        "projectName": "Persistencia",
+        "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Persistencia/Persistencia.csproj",
+        "packagesPath": "/home/david-pc/.nuget/packages/",
+        "outputPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Persistencia/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/david-pc/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/Dominio.csproj": {
+                "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Dominio/Dominio.csproj"
+              },
+              "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/Interfaces.csproj": {
+                "projectPath": "/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/Interfaces/Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "JsonFlatFileDataStore": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

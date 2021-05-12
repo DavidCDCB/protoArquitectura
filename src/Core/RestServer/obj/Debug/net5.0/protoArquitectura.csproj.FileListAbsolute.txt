@@ -60,3 +60,9 @@
 /media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Dominio.pdb
 /media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Aplicacion.dll
 /media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Aplicacion.pdb
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/JsonFlatFileDataStore.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Newtonsoft.Json.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Interfaces.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Persistencia.dll
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Interfaces.pdb
+/media/david-pc/00166D92166D8A0C/BackupCDCB/Algoritmos/protoNet/proyecto/protoArquitectura/src/Core/RestServer/bin/Debug/net5.0/Persistencia.pdb
